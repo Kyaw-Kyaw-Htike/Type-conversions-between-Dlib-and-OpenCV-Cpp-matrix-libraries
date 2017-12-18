@@ -9,12 +9,6 @@
 #include "dlib/array2d.h"
 #include "dlib/array.h"
 
-/////////// *************** ///////////////////
-/////////// *************** ///////////////////
-/////////// CORRECTNESS TEST PASSED ///////////
-/////////// *************** ///////////////////
-/////////// *************** ///////////////////
-
 namespace hpers_TEDlibOpencv
 {
 	// convert typename and nchannels to opencv mat type such as CV_32FC1
